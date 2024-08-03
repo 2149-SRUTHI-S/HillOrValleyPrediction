@@ -1,4 +1,3 @@
-# HillOrValleyPrediction
 
 <!DOCTYPE html>
 <html lang="en">
